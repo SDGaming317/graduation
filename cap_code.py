@@ -1,3 +1,4 @@
+# Senior Year Story (In Python Of Course)
 schools = ["FAU", "Liberty", "Palm Beach Atlantic", "Florida Polytechnic"]
 activities = ["Work", "Move", "Strengthen faith", "Become independent", "Begin dating"]
 
